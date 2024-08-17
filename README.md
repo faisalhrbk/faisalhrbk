@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @faisalhrbk
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning HTML, CSS & JS and after ill learn frameworks
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: 8/17/2024 ill edit this page after one year, its been a week since i have started learning html and css, wish me best of luck
 
 <!---
